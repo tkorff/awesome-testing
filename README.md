@@ -34,6 +34,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - We all have to mess with proxies, this makes it a lot easier when using Test/Prod/localhost proxies.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - For when PrintScreen isn't big enough.
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
+- [BugReplay] (https://www.bugreplay.com/) - Video bug report synchronized with console logs and other data.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Suggests values based on the field type.
 - [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
 - [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
